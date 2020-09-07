@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44507" started-at="2020-08-26T20:00:49 IST" finished-at="2020-08-26T20:01:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44507" started-at="2020-08-26T20:00:49 IST" finished-at="2020-08-26T20:01:33 IST">
+      <class name="EventHandling.WindowHandling">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:EventHandling.WindowHandling@80503]" name="browserLaunch" duration-ms="44334" started-at="2020-08-26T20:00:49 IST" finished-at="2020-08-26T20:01:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+      </class> <!-- EventHandling.WindowHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
